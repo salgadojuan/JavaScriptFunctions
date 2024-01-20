@@ -3,7 +3,8 @@ Practicing the use of JavaScript functions.
 
 
 
-// Create a function that logs out the sum of all the lap times
+// Create a function that logs out the sum of all the lap times. 
+
 function sum(){
     let lap1 = 34
     let lap2 = 33
