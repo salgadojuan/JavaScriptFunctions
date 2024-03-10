@@ -14,3 +14,5 @@ function sum(){
 }
 
 sum();
+
+// sum() function is being called.
